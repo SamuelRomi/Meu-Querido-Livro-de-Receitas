@@ -5,7 +5,7 @@ Projeto de Desenvolvimento de Software, 2025 | 01 - Mackenzie
 
 ## 📋 Projeto: Meu Querido Livro de Receitas
 
-Este projeto tem como finalidade gerenciamento da sua dieta, permitindo o usuário criar suas receitas e precifica-las. É possível acessar, também, seu cardápio semanal, organizando sua rotina conforme o desejo do usuário.
+Este projeto tem como finalidade gerenciamento de dietas, permitindo o usuário criar suas receitas e precifica-las. É possível acessar, também, seu cardápio semanal, organizando sua rotina conforme o desejo do usuário.
 
 - Funcionalidades:
       
